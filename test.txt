@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
-123123555666
-=======
-123123123555
->>>>>>> Stashed changes
+123123123
+new
